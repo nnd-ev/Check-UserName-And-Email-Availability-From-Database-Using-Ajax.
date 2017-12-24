@@ -40,7 +40,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`) VALUES
-(9, 'nenad', 'NND.STANOJEV@gmail.com', 'dcd48be788847ae408deeb629fef712e');
+(9, 'nenad', 'urosh.urosevic@gmail.com', 'dcd48be788847ae408deeb629fef712e');
 
 --
 -- Indexes for dumped tables
